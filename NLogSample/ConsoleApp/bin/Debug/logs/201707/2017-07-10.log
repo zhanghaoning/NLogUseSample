@@ -1,0 +1,4 @@
+17:16:59.0928 [Info] - 测试NLog日志记录 
+17:16:59.0928 [Error] - Error 
+17:16:59.1109 [Info] - exception System.DivideByZeroException 尝试除以零。 Void TestException()
+17:16:59.1109 [Error] - exception System.DivideByZeroException 尝试除以零。 Void TestException()

@@ -1,0 +1,11 @@
+F:\Repository\NLog\NLogSample\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+F:\Repository\NLog\NLogSample\ConsoleApp\bin\Debug\ConsoleApp.exe
+F:\Repository\NLog\NLogSample\ConsoleApp\bin\Debug\ConsoleApp.pdb
+F:\Repository\NLog\NLogSample\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+F:\Repository\NLog\NLogSample\ConsoleApp\obj\Debug\ConsoleApp.exe
+F:\Repository\NLog\NLogSample\ConsoleApp\obj\Debug\ConsoleApp.pdb
+F:\Repository\NLog\NLogSample\ConsoleApp\bin\Debug\NLog.config
+F:\Repository\NLog\NLogSample\ConsoleApp\bin\Debug\NLogSample.dll
+F:\Repository\NLog\NLogSample\ConsoleApp\bin\Debug\NLog.dll
+F:\Repository\NLog\NLogSample\ConsoleApp\bin\Debug\NLogSample.pdb
+F:\Repository\NLog\NLogSample\ConsoleApp\bin\Debug\NLog.xml

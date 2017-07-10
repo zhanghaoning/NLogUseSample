@@ -1,0 +1,7 @@
+F:\Repository\NLog\NLogSample\NLogSample\bin\Debug\NLog.config
+F:\Repository\NLog\NLogSample\NLogSample\bin\Debug\NLogSample.dll
+F:\Repository\NLog\NLogSample\NLogSample\bin\Debug\NLogSample.pdb
+F:\Repository\NLog\NLogSample\NLogSample\bin\Debug\NLog.dll
+F:\Repository\NLog\NLogSample\NLogSample\bin\Debug\NLog.xml
+F:\Repository\NLog\NLogSample\NLogSample\obj\Debug\NLogSample.dll
+F:\Repository\NLog\NLogSample\NLogSample\obj\Debug\NLogSample.pdb
